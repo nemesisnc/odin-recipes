@@ -1,0 +1,25 @@
+* {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#title {
+    color: blue;
+    background-color: rgb(255, 0, 0);
+    font-size: x-large;
+    text-align: center;
+}
+
+h1 {
+    color: green;
+    font-weight: bold;
+}
+
+h2 {
+    text-decoration: underline;
+    text-decoration-color: aquamarine;
+}
+
+img {
+    width: 500px;
+    height: auto;
+}
